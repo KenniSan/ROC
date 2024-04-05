@@ -23,3 +23,4 @@ How to collaborate :
 10. Fill in the fields and click on "Create a pull request".
 
 Congratulations !!!  
+The repo will be updated weekly !
